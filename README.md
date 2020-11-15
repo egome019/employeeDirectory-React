@@ -4,7 +4,7 @@
 
   ## Description
 
-  The application is an employee directory that displays all the employees on record with a picture, name, date of birth, email, and phone number of each employee . You can sort by name or you can look up an employee by name directly by using the search box.
+  The application is a React JS powered employee directory that displays all the employees on record with a picture, name, date of birth, email, and phone number of each employee . You can sort by name or you can look up an employee by name directly by using the search box.
 
   ## Table of Contents
 
