@@ -16,8 +16,7 @@ function NavRow ({nav, Sort, users}) {
                                         Sort(name.toLowerCase());
                                     }}
                                 >
-                                    {name}
-                                    <span role="button" tabIndex="0"></span>
+                                    <span className="dropdown-toggle" role="button" tabIndex="0">{name}</span>
                                 </th>
                             );
                         })}
