@@ -1,10 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import Wrapper from './components/Wrapper';
 
 function App() {
-  return (
-    // some kind of container goes here...
-  );
+  return <Wrapper />;
 }
 
 export default App;
